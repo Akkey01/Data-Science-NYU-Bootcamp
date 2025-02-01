@@ -11,4 +11,4 @@ Final Project: Developed a Music Recommendation System, which won the Best Proje
 
 🎵 Check out the Music Recommendation System here:
 
-🔗 GitHub: Music Recommendation System
+🔗 GitHub: Music Recommendation System : https://github.com/Akkey01/Music-Recommendation-System/tree/main
